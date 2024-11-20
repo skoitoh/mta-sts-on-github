@@ -1,6 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
+mx: mx1.hc677-43.ap.iphmx.com
+mx: mx2.hc677-43.ap.iphmx.com
 max_age: 604800
-mx: *.googlemail.com
-mx: *.aspmx.l.google.com
-mx: aspmx.l.google.com
